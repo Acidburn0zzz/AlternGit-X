@@ -1,7 +1,7 @@
 {
     "project_name": "GitX",
     "base_version": "0.16",
-    "release_branch": "master",
+    "release_branch": "HEAD",
     "codesign_identity": "",
     "update_signing_key": "gitx-updates.key",
     "release_tag_prefix": "v/",
