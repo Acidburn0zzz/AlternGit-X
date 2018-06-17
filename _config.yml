@@ -4,3 +4,5 @@ description: "an open source Git GUI for Mac OS X"
 baseurl: ""
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-leap-day
